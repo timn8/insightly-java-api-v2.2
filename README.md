@@ -11,14 +11,6 @@ The Insightly Java SDK is implemented as a standard Maven project. To install it
 mvn install
 from the project root.
 
-To use the Insightly Java SDK in your own project, simply include the following dependency in your pom.xml:
 
-<dependency>
-  <groupId>com.insightly</groupId>
-  <artifactId>insightly-java-api</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
-</dependency>
-
-com.insightly insightly-java-api 0.1.0-SNAPSHOT
 
 The library is currently in beta (first version uploaded on Nov 11th, 2015)
